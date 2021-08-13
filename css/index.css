@@ -1,0 +1,11 @@
+html {
+  font-family: 'Spoqa Han Sans Neo', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+canvas {
+  width: 400px;
+  height: 400px;
+}
